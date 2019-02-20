@@ -1,6 +1,6 @@
 # check_http
 
-A new Flutter project.
+Pulls from flutterUpstream
 
 ## Getting Started
 
